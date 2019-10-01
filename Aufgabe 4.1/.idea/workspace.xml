@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5cbd719-baa7-4fe5-b1e2-859e44e1ea4d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RKtZrif27BUitlHOYm65Z3tUwo" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Nuggets" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Aufgabe414">
+    <configuration name="Aufgabe411" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aufgabe411" />
+      <module name="Aufgabe 4.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aufgabe412" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Aufgabe412" />
+      <module name="Aufgabe 4.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aufgabe413" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Aufgabe413" />
+      <module name="Aufgabe 4.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aufgabe414" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Aufgabe414" />
+      <module name="Aufgabe 4.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Aufgabe411" />
+      <item itemvalue="Application.Aufgabe412" />
+      <item itemvalue="Application.Aufgabe413" />
+      <item itemvalue="Application.Aufgabe414" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5cbd719-baa7-4fe5-b1e2-859e44e1ea4d" name="Default Changelist" comment="" />
+      <created>1569427673583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569427673583</updated>
+      <workItem from="1569427681483" duration="3325000" />
+      <workItem from="1569612973781" duration="3839000" />
+      <workItem from="1569917783373" duration="257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
