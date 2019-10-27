@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="355f4046-5c68-410d-aa2d-c6457d64ad91" name="Default Changelist" comment="" />
+    <list default="true" id="355f4046-5c68-410d-aa2d-c6457d64ad91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Aufgaben/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aufgaben/src/Aufgabe_4_1/Aufgabe411.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aufgaben/src/Aufgabe_4_1/Aufgabe412.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aufgaben/src/Aufgabe_4_1/Aufgabe413.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aufgaben/src/Aufgabe_4_1/Aufgabe414.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aufgaben/src/Aufgabe_4_2/Aufgabe421.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aufgaben/src/Aufgabe_4_3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aufgaben/src/Aufgabe_4_3/Schuh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aufgaben/src/Aufgabe_4_3/TestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aufgaben/src/Aufgabe_4_3/TestSchuh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaNuggets4/Beispiel1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaNuggets4/Beispiel2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaNuggets4/Zahl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe 4.1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe 4.1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe 4.1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe 4.1/Aufgabe 4.1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe 4.1/out/production/Aufgabe 4.1/Aufgabe411.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe 4.1/out/production/Aufgabe 4.1/Aufgabe412.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe 4.1/out/production/Aufgabe 4.1/Aufgabe413.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe 4.1/out/production/Aufgabe 4.1/Aufgabe414.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe 4.1/src/Aufgabe411.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe 4.1/src/Aufgabe412.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe 4.1/src/Aufgabe413.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe 4.1/src/Aufgabe414.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JUnit/src/Math.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JUnit/src/MathTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Nuggets/Java_Nuggets_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Nuggets/Java_Nuggets_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Nuggets_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Nuggets_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/Theorie_Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/out/production/Theorie_Code/AnnotationsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/out/production/Theorie_Code/CalendarTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/out/production/Theorie_Code/CalendarTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/out/production/Theorie_Code/ExceptionsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/out/production/Theorie_Code/Math.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/out/production/Theorie_Code/MathTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/out/production/Theorie_Code/MathTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/out/production/Theorie_Code/MathTest3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/out/production/Theorie_Code/MathTest4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/out/production/Theorie_Code/MathTest4static.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/out/production/Theorie_Code/MathTest5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/out/production/Theorie_Code/MathTest6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/src/AnnotationsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/src/CalendarTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/src/CalendarTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/src/ExceptionsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/src/Math.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/src/MathTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/src/MathTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/src/MathTest3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/src/MathTest4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/src/MathTest4static.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/src/MathTest5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Theorie_Code/src/MathTest6.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,12 +80,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1RHJtuOzGIgr7jVP6IqiRE2eJXn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -34,25 +104,76 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Java_Nuggets_2">
-    <configuration name="Java_Nuggets_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Nuggets_1" />
+  <component name="RunManager" selected="Application.Beispiel1 (1)">
+    <configuration name="Beispiel1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaNuggets4.Beispiel1" />
+      <module name="Java_Nuggets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaNuggets4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Beispiel1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beispiel1" />
       <module name="Java_Nuggets" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_Nuggets_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Nuggets_2" />
+    <configuration name="Beispiel2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaNuggets4.Beispiel2" />
+      <module name="Java_Nuggets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaNuggets4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Beispiel2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beispiel2" />
       <module name="Java_Nuggets" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JavaNuggets2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaNuggets2" />
+      <module name="Java_Nuggets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaNuggets3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="JavaNuggets3" />
+      <module name="Java_Nuggets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JavaNuggets3" />
+      <item itemvalue="Application.JavaNuggets2" />
+      <item itemvalue="Application.Beispiel1" />
+      <item itemvalue="Application.Beispiel2" />
+      <item itemvalue="Application.Beispiel1 (1)" />
+      <item itemvalue="Application.Beispiel2 (1)" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Java_Nuggets_2" />
-        <item itemvalue="Application.Java_Nuggets_1" />
+        <item itemvalue="Application.Beispiel1 (1)" />
+        <item itemvalue="Application.Beispiel2 (1)" />
+        <item itemvalue="Application.Beispiel1" />
+        <item itemvalue="Application.Beispiel2" />
+        <item itemvalue="Application.JavaNuggets2" />
       </list>
     </recent_temporary>
   </component>
@@ -71,10 +192,45 @@
       <workItem from="1569423918398" duration="2881000" />
       <workItem from="1569612846145" duration="400000" />
       <workItem from="1569918046938" duration="1252000" />
+      <workItem from="1570527807663" duration="275000" />
+      <workItem from="1570528144555" duration="162000" />
+      <workItem from="1570634083682" duration="25000" />
+      <workItem from="1570635167615" duration="677000" />
+      <workItem from="1571070253277" duration="267000" />
+      <workItem from="1571127919764" duration="1291000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaNuggets4/Beispiel1.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaNuggets4/Beispiel2.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
