@@ -1,3 +1,5 @@
+package Test_1;
+
 import java.awt.Graphics;
 
 import javax.swing.JPanel;

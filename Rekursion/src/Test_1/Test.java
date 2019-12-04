@@ -1,13 +1,14 @@
+package Test_1;
 
 public class Test {
 	
 	/**
-	 * Die Methode hofstaederZahlen liefert ein Array zurück mit
+	 * Die Methode hofstaederZahlen liefert ein Array zurï¿½ck mit
 	 * Hofstaeder-Zahlen von 1 bis n.
 	 * 
 	 * Beispiel: hofstaederZahlen(4) soll ein Array mit den Zahlen 
-	 * { 1, 1, 2, 3 } zurückliefern.
-	 * Achtung: Da in Java die Arrays üblicherweise mit 
+	 * { 1, 1, 2, 3 } zurï¿½ckliefern.
+	 * Achtung: Da in Java die Arrays ï¿½blicherweise mit 
 	 * Startwert 0 indexiert werden, ist im Array die Zahl 
 	 * hofstaeder(3) im Array an der Stelle 2 abgelegt.
 	 * 
@@ -22,9 +23,11 @@ public class Test {
 	 */
 	static int[] hofstaederZahlen(int n) {
 		int[] werte = new int[n];
-		//
-		// Hier sind Sie gefragt
-		//
+		werte[0] = 1;
+		werte[1] = 1;
+		for (int i = 2; i<n; i++) {
+			werte[i] = werte[i-werte[i-1]]+werte[i-werte[i-2]];
+		}
 		return werte;
 	}
 	

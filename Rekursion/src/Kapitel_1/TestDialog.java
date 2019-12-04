@@ -1,3 +1,5 @@
+package Kapitel_1;
+
 import javax.swing.JDialog;
 import javax.swing.WindowConstants;
 
